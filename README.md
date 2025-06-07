@@ -1,11 +1,11 @@
-# 👋 Olá! Eu sou [Seu Nome Aqui]!
+# 👋 Olá! Eu sou Isabella Regina de Lima!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Experiência com desenvolvimento Front-End e Back-End.  
+🎓 Estudante de Sistemas para Internet | 💻 Experiência com desenvolvimento Front-End e Back-End.  
 📚 Aprendendo constantemente com cursos da DIO, Udemy e projetos práticos.  
 🚀 Já desenvolvi projetos com foco social, como o premiado no hackathon *Coding the Future*.  
-🎯 Atualmente desenvolvendo com **JavaScript**, **C#**, **HTML/CSS**, **Power Platform** e **Java com Servlets**.  
+🎯 Atualmente desenvolvendo com **JavaScript**, **C#**, **HTML/CSS** e **Java com Servlets**.  
 
-📬 Contato: [seuemail@email.com] | [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+📬 Contato: isabellaregina.2003@outlook.com | [LinkedIn](https://www.linkedin.com/in/isabella-regina-de-lima-1369452ba/)
 
 ---
 
@@ -25,17 +25,15 @@
 
 | Estatísticas | Linguagens mais usadas |
 |--------------|-------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=dark) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsabellaLimaa&show_icons=true&theme=dark&count_private=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsabellaLimaa&layout=compact&theme=dark) |
 
 ---
 
 ## 🚀 Projetos em destaque
 
-- 🎮 [**Gamelet**](#) — Sistema Web para gerenciamento de jogos, com autenticação e recursos CRUD.
-- 🧑‍🌾 [**ODS Fome Zero**](#) — Aplicativo premiado em hackathon que conecta pessoas em situação de vulnerabilidade a hortas comunitárias.
-- 📅 [**Plataforma de Reuniões Online**](#) — Inspirada no Google Meet, criada como TCC usando HTML, CSS e JavaScript.
-- 🔁 [**API To-Do List (Java Servlets)**](#) — Aplicação com CRUD de tarefas utilizando Java e armazenamento em memória.
-
+- 🎮 [**Gamelet**](https://github.com/IsabellaLimaa/GameLet) — Sistema Web para gerenciamento de jogos, com autenticação e recursos CRUD.
+- 🧑‍🌾 [**Site WIT**](https://github.com/IsabellaLimaa/site-wit-front) — Site colaborativo front-end do Women in Tech.
+- 
 ---
 
 ⭐ *Motivada por tecnologia, impacto social e soluções inovadoras!*
