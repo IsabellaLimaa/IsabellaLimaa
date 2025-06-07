@@ -33,7 +33,8 @@
 
 - 🎮 [**Gamelet**](https://github.com/IsabellaLimaa/GameLet) — Sistema Web para gerenciamento de jogos, com autenticação e recursos CRUD.
 - 🧑‍🌾 [**Site WIT**](https://github.com/IsabellaLimaa/site-wit-front) — Site colaborativo front-end do Women in Tech.
-- 
+
+   
 ---
 
 ⭐ *Motivada por tecnologia, impacto social e soluções inovadoras!*
